@@ -2,15 +2,15 @@ This is a test to practice git conflicts
 
 Write your name under this line
 Ndibe Chinonso
-Owoeye Oluwatomisin
+Owoeye Bobatife
 
 
 Write your favorite color under this line
 Purple(Nonso)
-Ash(Boba)
+Grey(Boba)
 
 
 
 Write your profession under this line
 Frontend Developer(Nonso)
-Enterpreneur(Boba)
+Student(Boba)
