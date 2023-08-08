@@ -11,3 +11,16 @@ padding: 5px;
 .nonso_table td{
     padding: 20px;
 }
+.chuka_header{
+    color: blue;
+    text-align: right;
+}
+.chuka_table th{
+    border-color: brown;
+    border-width: 20cap;
+    border-width: 50cap;
+}
+.chuka_table td{
+    align-items: left;
+    border-collapse: separate;
+}
