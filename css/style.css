@@ -1,0 +1,13 @@
+.nonso_header{
+    color: green;
+    text-align: center;
+}
+.nonso_table{
+   border-collapse: collapse;
+}
+.nonso_table th{
+padding: 5px;
+}
+.nonso_table td{
+    padding: 20px;
+}
