@@ -20,7 +20,7 @@ Task 2
 
 3. Have an input tag with a value of "Change this to your name" and next to it, a Button tag of type "button" and content "Click me"
 
-4. Usin
+4. Using
    Have a table of 4 of your favourite celebs, tell us their names, an image of them, their ages and their state of origin
 
 Create a form that has firstname, lastName, email, password, gender, age range (0 -10), (11 - 20), (20 -40), (41 and above)
