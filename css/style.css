@@ -24,3 +24,18 @@ padding: 5px;
     align-items: left;
     border-collapse: separate;
 }
+
+.boba_header {
+    color: gray;
+    text-align: center;
+    text-decoration: underline blue;
+}
+.boba_table{
+    border-collapse: collapse;
+}
+.boba_table th{
+    padding: 10px;
+}
+.boba_table td{
+    padding: 20px;
+}
