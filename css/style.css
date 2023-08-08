@@ -1,0 +1,41 @@
+.nonso_header{
+    color: green;
+    text-align: center;
+}
+.nonso_table{
+   border-collapse: collapse;
+}
+.nonso_table th{
+padding: 5px;
+}
+.nonso_table td{
+    padding: 20px;
+}
+.chuka_header{
+    color: blue;
+    text-align: right;
+}
+.chuka_table th{
+    border-color: brown;
+    border-width: 20cap;
+    border-width: 50cap;
+}
+.chuka_table td{
+    align-items: left;
+    border-collapse: separate;
+}
+
+.boba_header {
+    color: gray;
+    text-align: center;
+    text-decoration: underline blue;
+}
+.boba_table{
+    border-collapse: collapse;
+}
+.boba_table th{
+    padding: 10px;
+}
+.boba_table td{
+    padding: 20px;
+}
