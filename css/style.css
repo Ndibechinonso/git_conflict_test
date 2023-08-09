@@ -1,13 +1,34 @@
-.nonso_header{
-    color: green;
-    text-align: center;
-}
+
 .nonso_table{
    border-collapse: collapse;
 }
 .nonso_table th{
 padding: 5px;
+
 }
 .nonso_table td{
     padding: 20px;
+}
+
+.nonso_header{
+    color: red;
+}
+h1{
+    color: blue
+}
+
+.box_model{
+    margin: 20px;
+    padding: 10px;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    padding: 10px 20px 40px; */
+    /* padding: 10px; */
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    /* border: 5px solid green; */
 }
