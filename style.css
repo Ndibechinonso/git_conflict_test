@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    padding: 20px;
+}
+
+.title{
+    color: purple;
+    margin-bottom: 30px;
+}
+.top_title{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.testimonials{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+.testimonial{
+    margin-bottom: 10px;
+}
+.header{
+    text-align: center;
+}
+
+#class_2{
+    background-color: yellow;
+}
+.first_card{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    max-width: 500px;
+    border-radius: 10px;
+    background-color: pink;
+    padding: 20px 10px;
+}
+
+#class_3{
+    background-color: green;
+}
+#avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 500%;
+}
+.header :is(p, h2){
+    max-width: 400px;
+    margin: auto;
+    text-align: left;
+}
+/* .element_container{
+    border: 2px solid green;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 500px;
+}
+
+.second_element_container{
+    border: 2px solid red;
+    padding: 20px;
+    width: 400px;
+} */
+
+
+/* .card_container{
+    width: 200px;
+    border: 2px solid green;
+}
+.actor_avatar{
+    position: relative;
+    width: 200px;
+    height: auto;
+}
+.hamburger{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    color: white;
+    background-color: purple;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.actor_avatar img{
+    width: 100%;
+    object-fit: contain; 
+}
+
+.info{
+    background-color: purple;
+    color: white;
+    padding: 8px;
+}
+
+.movie_info{
+    font-size: 12px;
+    margin-top: 5px;
+} */
