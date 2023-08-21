@@ -3,10 +3,15 @@ This is a test to practice git conflicts
 Write your name under this line
 Ndibe Chinonso
 Joseph Emmanuel
+Owoeye Oluwatomisin
+
 
 Write your favorite color under this line
 Purple(Nonso)
 Green(Nator)
+Ash(Boba)
+
+
 
 Write your profession under this line
 Frontend Developer(Nonso)
@@ -24,3 +29,5 @@ Task 2
    Have a table of 4 of your favourite celebs, tell us their names, an image of them, their ages and their state of origin
 
 Create a form that has firstname, lastName, email, password, gender, age range (0 -10), (11 - 20), (20 -40), (41 and above)
+
+Enterpreneur(Boba)

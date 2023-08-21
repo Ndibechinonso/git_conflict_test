@@ -1,13 +1,93 @@
-.nonso_header{
-    color: green;
-    text-align: center;
+/* .nonso_header {
+  color: green;
 }
-.nonso_table{
-   border-collapse: collapse;
+.nonso_table {
+  border-collapse: collapse;
+}
+.nonso_table th {
+  padding: 5px;
+}
+.nonso_table td {
+  padding: 20px;
+}
+.nator_header {
+  color: lightseagreen;
+  font-weight: 400;
+}
+.nator_table {
+  border-collapse: collapse;
 }
 .nonso_table th{
 padding: 5px;
+
 }
-.nonso_table td{
-    padding: 20px;
+.nator_table td {
+  padding: 20px;
+}
+.chuka_header {
+  color: blue;
+}
+.chuka_table th {
+  border-color: brown;
+  border-width: 20cap;
+  border-width: 50cap;
+}
+.chuka_table td {
+  align-items: left;
+  border-collapse: separate;
+}
+
+.boba_header {
+  color: gray;
+  text-decoration: underline blue;
+}
+.boba_table {
+  border-collapse: collapse;
+}
+.boba_table th {
+  padding: 10px;
+}
+.boba_table td {
+  padding: 20px;
+}
+
+h1{
+    color: blue
+}
+
+.box_model{
+    margin: 20px;
+    padding: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+} */
+
+ul{
+  list-style-type:upper-alpha;
+}
+.forgot_password{
+  text-decoration: none;
+  color: #ffffff;
+}
+.form_container{
+  background-color: rgba(148,202,70,255);
+  text-align: center;
+}
+.header{
+  color: white;
+}
+.sub_title{
+  color: rgba(74,146,40,255);
+}
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.form_field{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
 }
